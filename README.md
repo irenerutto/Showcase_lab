@@ -158,22 +158,6 @@ New projects:
 * Git & GitHub
 
 ---
-
-## Learning Outcomes
-
-This project demonstrates:
-
-* Component-based architecture
-* State lifting and props passing
-* Controlled forms in React
-* Dynamic list rendering
-* Array filtering in UI
-* Real-time user interaction handling
-* Modular CSS styling
-* Basic UI/UX structuring
-
----
-
 ## Future Improvements
 
 Possible enhancements:
