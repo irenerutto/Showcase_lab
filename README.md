@@ -55,7 +55,7 @@ The application follows a modular component-based structure:
 * Manages all state:
 
   * Project list
-  * Search term
+  * Search term (the current text entered by the user for filtering projects)
   * Form data
 * Handles:
 
