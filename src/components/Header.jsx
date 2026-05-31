@@ -5,7 +5,7 @@ function Header() {
 
     // Main application header displayed at the top of the page
     <header className={styles.header}>
-      PERSONAL PROJECT SHOWCASE APP
+      PROJECT SHOWCASE APP
     </header>
   );
 }
