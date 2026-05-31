@@ -4,12 +4,7 @@ function SearchBar({ searchTerm, setSearchTerm }) {
   return (
       // Search container for filtering projects
     <div className={styles.searchBar}>
-       {/* 
-        Controlled input:
-        - value is linked to searchTerm state from parent (App.jsx)
-        - onChange updates searchTerm in real time
-        - used for dynamic filtering of project list
-      */}
+         {/* Controlled search input used to filter projects */}
       <input
         type="text"
         placeholder="Search projects..."
